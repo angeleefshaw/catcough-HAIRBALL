@@ -2,7 +2,7 @@
 
 ## Overview
 
-### How to Buy CatCough (HAIRBALL)
+## How to Buy CatCough (HAIRBALL)
 
 ## Learn More
 
