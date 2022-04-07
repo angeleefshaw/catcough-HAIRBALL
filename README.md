@@ -1,6 +1,5 @@
 
 # Cat Cough (HAIRBALL) <img src="images/catcoughmain.jpg" alt="CatCough" height="40px">
-*** 
 
 ## Overview
 
