@@ -1,4 +1,5 @@
 # Cat Cough (HAIRBALL) <img src="images/catcoughmain.jpg" alt="CatCough" height="40px">
+
 ## Overview
 
 ## How to Buy CatCough (HAIRBALL)
@@ -14,3 +15,4 @@ A few articles we recommend for those interested in Smart Contract development.
 ## License
 
 CatCough Contract is released under the [MIT License](LICENSE).
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
