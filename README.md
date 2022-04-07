@@ -13,4 +13,4 @@ A few articles we recommend for those interested in Smart Contract development.
 
 ## License
 
-OpenZeppelin Contracts is released under the [MIT License](LICENSE).
+CatCough Contract is released under the [MIT License](LICENSE).
