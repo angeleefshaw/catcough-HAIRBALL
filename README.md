@@ -6,7 +6,7 @@
 ### Find us Online
 
 - Telegram
-- www.catcough.com
+- https://catcough.com
 - OpenSea
 
 ### Learn More
