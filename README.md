@@ -1,4 +1,4 @@
-# <img src="" alt="CatCough" height="40px">
+# <img src="images/catcoughmain.jpg" alt="CatCough" height="40px">
 
 ## Overview
 
