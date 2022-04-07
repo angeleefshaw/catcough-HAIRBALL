@@ -5,9 +5,9 @@
 
 ### Find us Online
 
-Telegram
-www.catcough.com
-OpenSea
+- Telegram
+- www.catcough.com
+- OpenSea
 
 ### Learn More
 
