@@ -9,7 +9,7 @@
 
 *Instructions to buy hairballs
 
-### Find us Online
+### Find Us Online
 
 - Telegram
 - https://catcough.com
