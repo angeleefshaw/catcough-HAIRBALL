@@ -1,5 +1,5 @@
 
-# Cat Cough (HAIRBALL) <img src="images/catcoughmain.jpg" alt="CatCough" height="50px">
+# Cat Cough (HAIRBALL) <img src="images/catcoughmain.jpg" alt="CatCough" height="60px" style="margin-top:5px;">
 
 <img src="images/hairballcharts.jpg" alt="CatCough" height="400px" width="600px">
 
