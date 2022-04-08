@@ -11,8 +11,10 @@
 
 ### Find Us Online
 
-<img src="images/catcougher.jpg" alt="CatCough" height="20px">Telegram
+<img src="images/catcougher.jpg" alt="CatCough" height="20px"> Telegram
+
 <img src="images/catcougher.jpg" alt="CatCough" height="20px"> https://catcough.com
+
 <img src="images/catcougher.jpg" alt="CatCough" height="20px"> OpenSea
 
 ### Learn More
