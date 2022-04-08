@@ -1,7 +1,7 @@
 
 # Cat Cough (HAIRBALL) <img src="images/catcoughmain.jpg" alt="CatCough" height="40px">
 
-<img src="images/hairballcharts.jpg" alt="CatCough" height="400px" width="500px">
+<img src="images/hairballcharts.jpg" alt="CatCough" height="400px" width="550px">
 
 [CatCough Live Chart](https://charts.bogged.finance/?c=bsc&t=0xb5d5A52e0E3f708AdF0593d5D2aF15b06442e2a9)
 
