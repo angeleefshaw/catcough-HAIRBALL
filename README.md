@@ -5,7 +5,9 @@
 
 [CatCough Live Chart](https://charts.bogged.finance/?c=bsc&t=0xb5d5A52e0E3f708AdF0593d5D2aF15b06442e2a9)
 
-### How to Buy CatCough (HAIRBALL)
+### Buy Hairballs!
+
+*Instructions to buy hairballs
 
 ### Find us Online
 
