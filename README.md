@@ -17,7 +17,7 @@
 
 <img src="images/catcougher.jpg" alt="CatCough" height="20px"> OpenSea
 
-<img src="images/catcougher.jpg" alt="CatCough" height="20px"> [BSC](https://bscscan.com/address/0xA1572a3BB5CDe13086e283AfC6015ab8c5F2b02e#code)
+<img src="images/catcougher.jpg" alt="CatCough" height="20px"> [BscScan](https://bscscan.com/address/0xA1572a3BB5CDe13086e283AfC6015ab8c5F2b02e#code)
 
 ### Learn More
 
