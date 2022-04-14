@@ -3,7 +3,7 @@
 
 <img src="images/hairballcharts.jpg" alt="CatCough" height="400px" width="600px">
 
-[CatCough Live Chart](https://charts.bogged.finance/?c=bsc&t=0xb5d5A52e0E3f708AdF0593d5D2aF15b06442e2a9)
+[CatCough Live Chart](https://charts.bogged.finance/?c=bsc&t=0xA1572a3BB5CDe13086e283AfC6015ab8c5F2b02e)
 
 ### Buy Hairballs!
 
