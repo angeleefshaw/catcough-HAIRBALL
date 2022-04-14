@@ -44,13 +44,19 @@
 *   
 */
 
+// SPDX-License-Identifier: MIT
+
 pragma solidity 0.6.12;
 
-import "@openzeppelin/contracts/access/Ownable.sol";
-import "@openzeppelin/contracts/GSN/Context.sol";
-import "@openzeppelin/contracts/token/ERC20/IERC20.sol";
-import "@openzeppelin/contracts/math/SafeMath.sol";
-import "@openzeppelin/contracts/utils/Address.sol";
+import "./Ownable.sol";
+import "./Context.sol";
+import "./IERC20.sol";
+import "./SafeMath.sol";
+import "./Address.sol";
+import "./IUniswapV2Pair.sol";
+import "./IUniswapV2Factory.sol";
+import "./IUniswapV2Router01.sol";
+import "./IUniswapV2Router02.sol";
 
 
 contract CatCoughContract is Context, IERC20, Ownable {
