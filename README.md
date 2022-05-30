@@ -15,7 +15,7 @@
 
 <img src="images/catcougher.jpg" alt="CatCough" height="20px"> https://catcough.com
 
-<img src="images/catcougher.jpg" alt="CatCough" height="20px">  [Meme Generator](https://create.catcough.com)
+<img src="images/catcougher.jpg" alt="CatCough" height="20px">  [Meme Generator](https://www.create.catcough.com)
 
 <img src="images/catcougher.jpg" alt="CatCough" height="20px"> OpenSea
 
